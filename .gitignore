@@ -1,0 +1,11 @@
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.iobj
+*.ipdb
+*.user
+**/buildcache/
+**/.vs/
+**/.vscode/
